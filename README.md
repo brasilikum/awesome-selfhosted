@@ -908,6 +908,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [osTicket](http://osticket.com/) - Simple support ticket system.
   * [OTRS](http://www.otrs.com/) - Trouble ticket system for assigning tickets to incoming queries and tracking further communications.
   * [Request Tracker](https://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
+  * [Spiceworks Help Desk](https://www.spiceworks.com/downloads/) - Fully-loaded help desk which includes Inventory. Free. Ad-based. `Commerical`
   * [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
 
 
